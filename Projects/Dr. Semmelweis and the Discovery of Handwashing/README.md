@@ -16,3 +16,4 @@ Links and Appendix
 
 - DataCamp: https://www.datacamp.com
 - About Dr. Semmelweis: https://en.wikipedia.org/wiki/Ignaz_Semmelweis
+- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb
