@@ -4,3 +4,15 @@
 This is a data tale depicting the reasons behind Dr. Semmelweis' urge to make handwashing mandatory in clinical operations. The tale starts with the increasing number of fatalities due to unhygienic conditions in clinic, then goes to the advantages of handwashing as discovered by Dr. Semmelweis, and finally demonstrating the actual benefits of making handwashing mandatory by Dr. Semmelweis.
 
 This project is available on DataCamp.
+
+Introduction
+========================================================
+
+This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at the Vienna General Hospital. If Dr. Semmelweis looks troubled it's probably because he's thinking about childbed fever: A deadly disease affecting women that just have given birth. He is thinking about it because in the early 1840s at the Vienna General Hospital as many as 10% of the women giving birth die from it. He is thinking about it because he knows the cause of childbed fever: It's the contaminated hands of the doctors delivering the babies. And they won't listen to him and wash their hands! In this notebook, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.
+
+
+Links and Appendix
+========================================================
+
+- DataCamp: https://www.datacamp.com
+- About Dr. Semmelweis: https://en.wikipedia.org/wiki/Ignaz_Semmelweis
