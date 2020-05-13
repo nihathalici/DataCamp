@@ -13,7 +13,7 @@ This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at t
 
 STEP-1
 ========================================================
-![Plot Tab]
+![Plot Tab]https://github.com/nihathalici/DataCamp/blob/master/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/img/1.png
 
 
 Links and Appendix
