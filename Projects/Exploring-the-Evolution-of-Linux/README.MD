@@ -1,15 +1,16 @@
-## Dr. Semmelweis and the Discovery of Handwashing
+## Exploring the evolution of Linux
 #### A Data Story in 9 Steps
-
-This is a data tale depicting the reasons behind Dr. Semmelweis' urge to make handwashing mandatory in clinical operations. The tale starts with the increasing number of fatalities due to unhygienic conditions in clinic, then goes to the advantages of handwashing as discovered by Dr. Semmelweis, and finally demonstrating the actual benefits of making handwashing mandatory by Dr. Semmelweis.
 
 This project is available on DataCamp.
 
 Introduction
 ========================================================
 
-![Plot Tab](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Ignaz_Semmelweis_1860.jpg/220px-Ignaz_Semmelweis_1860.jpg) <!-- .element height="50%" width="50%" -->
-This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at the Vienna General Hospital. If Dr. Semmelweis looks troubled it's probably because he's thinking about childbed fever: A deadly disease affecting women that just have given birth. He is thinking about it because in the early 1840s at the Vienna General Hospital as many as 10% of the women giving birth die from it. He is thinking about it because he knows the cause of childbed fever: It's the contaminated hands of the doctors delivering the babies. And they won't listen to him and wash their hands! In this notebook, we're going to reanalyze the data that made Semmelweis discover the importance of handwashing. Let's start by looking at the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.
+![Plot Tab](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg) 
+Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as a little message that describes the intention (the "what") of a change.
+In this notebook, we will analyze the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. Our dataset at hand contains the history of kernel development of almost 13 years (early 2005 - late 2017). We get some insights into the work of the development efforts by
+- identifying the TOP 10 contributors and
+- visualizing the commits over the years.
 
 STEP-1
 ========================================================
@@ -59,5 +60,5 @@ Links and Appendix
 ========================================================
 
 - DataCamp: https://www.datacamp.com
-- About Dr. Semmelweis: https://en.wikipedia.org/wiki/Ignaz_Semmelweis
+- About Linux: https://en.wikipedia.org/wiki/Linux
 - Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb
