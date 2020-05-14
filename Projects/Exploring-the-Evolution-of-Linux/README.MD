@@ -19,7 +19,7 @@ STEP-1
 
 STEP-2
 ========================================================
-![Plot Tab]![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Exploring-the-Evolution-of-Linux/img/2.png)
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Exploring-the-Evolution-of-Linux/img/2.png)
 
 
 
