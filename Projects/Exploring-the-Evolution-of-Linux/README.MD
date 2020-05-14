@@ -63,4 +63,4 @@ Links and Appendix
 
 - DataCamp: https://www.datacamp.com
 - About Linux: https://en.wikipedia.org/wiki/Linux
-- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb
+- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Exploring-the-Evolution-of-Linux/notebook.ipynb
