@@ -1,4 +1,4 @@
-## Exploring the evolution of Linux
+## A Network analysis of Game of Thrones
 #### A Data Story in 9 Steps
 
 This project is available on DataCamp.
@@ -6,12 +6,9 @@ This project is available on DataCamp.
 Introduction
 ========================================================
 
-![Plot Tab](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg) 
-Version control repositories like CVS, Subversion or Git can be a real gold mine for software developers. They contain every change to the source code including the date (the "when"), the responsible developer (the "who"), as well as a little message that describes the intention (the "what") of a change.
-In this notebook, we will analyze the evolution of a very famous open-source project – the Linux kernel. The Linux kernel is the heart of some Linux distributions like Debian, Ubuntu or CentOS. Our dataset at hand contains the history of kernel development of almost 13 years (early 2005 - late 2017). We get some insights into the work of the development efforts by
-- identifying the TOP 10 contributors and
-- visualizing the commits over the years.
-
+![Plot Tab](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Game_of_Thrones.svg/236px-Game_of_Thrones.svg.png) 
+If you haven't heard of Game of Thrones, then you must be really good at hiding. Game of Thrones is the hugely popular television series by HBO based on the (also) hugely popular book series A Song of Ice and Fire by George R.R. Martin. In this notebook, we will analyze the co-occurrence network of the characters in the Game of Thrones books. Here, two characters are considered to co-occur if their names appear in the vicinity of 15 words from one another in the books.
+This dataset constitutes a network and is given as a text file describing the edges between characters, with some attributes attached to each edge. Let's start by loading in the data for the first book A Game of Thrones and inspect it.
 STEP-1
 ========================================================
 ![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Exploring-the-Evolution-of-Linux/img/1.png)
