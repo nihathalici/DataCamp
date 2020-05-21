@@ -42,4 +42,4 @@ Links and Appendix
 
 - DataCamp: https://www.datacamp.com
 - About LEGO: https://en.wikipedia.org/wiki/Lego
-- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Exploring-the-Evolution-of-Linux/notebook.ipynb
+- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Exploring-67-years-of-LEGO/notebook.ipynb
