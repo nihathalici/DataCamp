@@ -65,5 +65,5 @@ Links and Appendix
 ========================================================
 
 - DataCamp: https://www.datacamp.com
-- About Game of Thrones: https://en.wikipedia.org/wiki/Game_of_Thrones
-- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Exploring-the-Evolution-of-Linux/notebook.ipynb
+- About Charles Darwin: https://en.wikipedia.org/wiki/Charles_Darwin 
+- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/notebook.ipynb
