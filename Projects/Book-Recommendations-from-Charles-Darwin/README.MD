@@ -6,7 +6,7 @@ This project is available on DataCamp.
 Introduction
 ========================================================
 
-![Plot Tab](https://commons.wikimedia.org/wiki/File:Charles-darwin-portrait-svg.svg) 
+![Plot Tab](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Charles-darwin-portrait-svg.svg/200px-Charles-darwin-portrait-svg.svg.png) 
 Charles Darwin is one of the few universal figures of science. His most renowned work is without a doubt his "On the Origin of Species" published in 1859 which introduced the concept of natural selection. But Darwin wrote many other books on a wide range of topics, including geology, plants or his personal life. In this notebook, we will automatically detect how closely related his books are to each other.
 
 STEP-1
