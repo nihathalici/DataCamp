@@ -54,16 +54,9 @@ STEP-9
 
 
 
-
-
-
-
-
-
-
 Links and Appendix
 ========================================================
 
 - DataCamp: https://www.datacamp.com
 - About Moby Dick: https://en.wikipedia.org/wiki/Moby-Dick
-- Get the source code / the Jupyter notebook file: 
+- Get the source code / the Jupyter notebook file: https://github.com/nihathalici/DataCamp/blob/master/Projects/Word-Frequency-in-Moby-Dick/notebook.ipynb
