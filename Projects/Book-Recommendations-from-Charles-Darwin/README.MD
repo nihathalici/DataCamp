@@ -14,10 +14,51 @@ Let's take a look at the books we'll use in our recommendation system.
 
 STEP-1
 ========================================================
-![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/A-Network-Analysis-of-Game-of-Thrones/img/1.png)
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/1.png)
 
+STEP-2
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/2.png)
 
+STEP-3
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/3.png)
 
+STEP-4
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/4.png)
+
+STEP-5
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/5.png)
+
+STEP-6
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/6.png)
+
+STEP-7
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/7.png)
+
+STEP-8
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/8.png)
+
+STEP-9
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/9.png)
+
+STEP-10
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/10.png)
+
+STEP-11
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/11.png)
+
+STEP-12
+========================================================
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/12.png)
 
 Links and Appendix
 ========================================================
