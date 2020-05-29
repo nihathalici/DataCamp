@@ -59,6 +59,7 @@ STEP-11
 STEP-12
 ========================================================
 ![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/12.png)
+![Plot Tab](https://github.com/nihathalici/DataCamp/blob/master/Projects/Book-Recommendations-from-Charles-Darwin/img/13.png)
 
 Links and Appendix
 ========================================================
