@@ -1,5 +1,5 @@
 ## Book Recommendations from Charles Darwin
-#### A Data Story in 9 Steps
+#### A Data Story in 12 Steps
 
 This project is available on DataCamp.
 
